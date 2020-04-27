@@ -635,7 +635,7 @@ livere_uid: # <your_uid>
 gitalk:
   enable: true
   github_id: wangshao # GitHub repo owner
-  repo: comment # Repository name to store issues
+  repo: wangshao.github.io # Repository name to store issues
   client_id: 'Iv1.ea739222c9d6a2c0'  # GitHub Application Client ID
   client_secret: '8ac546dfa6dfd262d70be09074310cf1027ee0e1' # GitHub Application Client Secret
   admin_user: wangshao # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
